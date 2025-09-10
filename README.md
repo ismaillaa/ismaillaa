@@ -32,8 +32,7 @@
   - 🎓 I have a DUT in Computer Science (EST Salé) and a Licence in Web & Mobile Application Engineering (FS Rabat).<br>
   - 🔭 Currently improving my backend skills in <strong>ASP.NET Core</strong> and <strong>PHP/Laravel</strong>.<br>
   - 🐳 Interested in DevOps practices (Docker, GitHub Actions, CI/CD).<br>
-  - 🚀 My big goal: become a top fullstack developer and build impactful projects.<br>
-  - ⚡ Fun fact: I also explore trading 📈 and love football ⚽.
+  - 🚀 My big goal: become a top fullstack developer and build impactful projects.
 </p>
 
 ###
