@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">.NET Developer | Full Stack</h1>
+<h2 align="center">.NET Developer | Full Stack</h2>
 
 ###
 
