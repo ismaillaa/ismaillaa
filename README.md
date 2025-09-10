@@ -25,11 +25,15 @@
 
 ###
 
+<h1 align="center">.NET Developer | Full Stack</h1>
+
+###
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
   I'm Ismail from Morocco 🌍 <br><br>
-  - 🎓 I have a DUT in Computer Science (EST Salé) and a Licence in Web & Mobile Application Engineering (FS Rabat).<br>
+  - 🎓 I have a DUT in Computer Science (EST Salé) and a Licence in Web & Mobile Application Engineering (EST Salé).<br>
   - 🔭 Currently improving my backend skills in <strong>ASP.NET Core</strong> and <strong>PHP/Laravel</strong>.<br>
   - 🐳 Interested in DevOps practices (Docker, GitHub Actions, CI/CD).<br>
   - 🚀 My big goal: become a top fullstack developer and build impactful projects.
